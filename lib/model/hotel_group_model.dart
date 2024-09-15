@@ -1,0 +1,3 @@
+class HotelGroupModel {
+  String? hotelGroup;
+}
